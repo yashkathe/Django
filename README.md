@@ -1,6 +1,7 @@
 # Django
 
-Python-based web framework that runs on a web server
+Python-based web framework that runs on a web server  
+[Documentation](https://docs.djangoproject.com/en/5.0/)
 
 ## Table of Content
 
@@ -10,3 +11,5 @@ Python-based web framework that runs on a web server
 4. [Admin](./Django-Admin/)
 5. [Data Relationships](./Relationships/)
 6. [Forms](./feedback/)
+7. [Class Based Views](./Class_Views/)
+8. [File Uploads](./File_Uploads/)
