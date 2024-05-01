@@ -14,3 +14,11 @@ Python-based web framework that runs on a web server
 7. [Class Based Views](./Class_Views/)
 8. [File Uploads](./File_Uploads/)
 9. [Sessions](./Sessions/)
+10. [Django Rest Framework](./MainAPI/)
+
+## Installations
+
+```bash
+pip3 install django
+pip3 install djangorestframework
+```
